@@ -27,9 +27,11 @@ y = {\log_{10}}({{x^2}})
 $$
 {% endraw %}
 
+{% raw %}
 $$
 y = {\log _{10}}\left( {{x^2}} \right)\,
 $$
+{% endraw %}
 
 $$
 y = a{x^2}\,
