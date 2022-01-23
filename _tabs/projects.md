@@ -1,7 +1,7 @@
 ---
 layout: categories
-title: Categories
+title: Projects
 icon: fas fa-stream
-order: 5
+order: 2
 ---
 
