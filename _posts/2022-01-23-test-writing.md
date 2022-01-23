@@ -33,4 +33,6 @@ $$
 y = a{x^2}\,
 $$
 
-
+$$
+\frac{{{\partial ^2}x}}{{{\partial ^2}t}} = \nabla {y^2}
+$$
