@@ -1,8 +1,10 @@
 ---
 title: test writing
-date: 2022-01-22 13:07:00 +0800
+date: 2022-01-23 13:07:00 +0800
 categories: [Test]
 tags: [math]
+math: true
+mermaid: true
 
 ---
 
