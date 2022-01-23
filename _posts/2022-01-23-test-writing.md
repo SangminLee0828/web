@@ -17,7 +17,24 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-$$y = {\log _{10}}\left( {{x^2}} \right)$$
+$$
+y = {\log _{10}}\left( {{x^2}} \right)
+$$
+
+$$
+y = a{x^2}\,
+$$
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt
+$$
+
+$$
+\frac{{{\partial ^2}x}}{{{\partial ^2}t}} = \nabla {y^2}
+$$
 
 ## Create files and folders
 
