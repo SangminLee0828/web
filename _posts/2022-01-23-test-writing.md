@@ -21,9 +21,11 @@ $$
 y = {\log _{10}}\left( {{x^2}} \right)
 $$
 
+{% raw %}
 $$
 y = {\log_{10}}({{x^2}})
 $$
+{% endraw %}
 
 $$
 y = {\log _{10}}\left( {{x^2}} \right)\,
@@ -34,7 +36,7 @@ y = a{x^2}\,
 $$
 
 {% raw %}
-{$$
+$$
 \frac{{{\partial^2}x}}{{{\partial^2}t}} = \nabla {y^2}
-$$}
+$$
 {% endraw %}
