@@ -28,12 +28,13 @@ $$
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
+
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt
 $$
 
 $$
-\frac{{{\partial ^2}x}}{{{\partial ^2}t}} = \nabla {y^2}
+\frac{{{\partial ^2}x}}{{{\partial ^2}t}} = \nabla {y^2}\,
 $$
 
 ## Create files and folders
